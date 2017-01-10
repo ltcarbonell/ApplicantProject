@@ -1,4 +1,4 @@
 # ApplicantProject
 
 To run:
-'./run.sh'
+`./run.sh`
